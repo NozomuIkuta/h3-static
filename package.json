@@ -1,8 +1,8 @@
 {
-  "name": "packageName",
+  "name": "@nozomuikuta/h3-static",
   "version": "0.0.0",
   "description": "",
-  "repository": "unjs/packageName",
+  "repository": "@nozomuikuta/h3-static",
   "license": "MIT",
   "sideEffects": false,
   "type": "module",

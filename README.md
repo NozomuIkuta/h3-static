@@ -1,11 +1,11 @@
-# packageName
+# @nozomuikuta/h3-static
 
 [![npm version][npm-version-src]][npm-version-href]
 [![npm downloads][npm-downloads-src]][npm-downloads-href]
 [![Github Actions][github-actions-src]][github-actions-href]
 [![Codecov][codecov-src]][codecov-href]
 
-> Package description
+> h3-native event handler to serve static files
 
 ## Usage
 
@@ -13,23 +13,23 @@ Install package:
 
 ```sh
 # npm
-npm install packageName
+npm install @nozomuikuta/h3-static
 
 # yarn
-yarn add packageName
+yarn add @nozomuikuta/h3-static
 
 # pnpm
-pnpm install packageName
+pnpm install @nozomuikuta/h3-static
 ```
 
 Import:
 
 ```js
 // ESM
-import { } from 'packageName'
+import { } from '@nozomuikuta/h3-static'
 
 // CommonJS
-const { } = require('packageName')
+const { } = require('@nozomuikuta/h3-static')
 ```
 
 ## 💻 Development
@@ -46,14 +46,14 @@ Made with 💛
 Published under [MIT License](./LICENSE).
 
 <!-- Badges -->
-[npm-version-src]: https://img.shields.io/npm/v/packageName?style=flat-square
-[npm-version-href]: https://npmjs.com/package/packageName
+[npm-version-src]: https://img.shields.io/npm/v/@nozomuikuta/h3-static?style=flat-square
+[npm-version-href]: https://npmjs.com/package/@nozomuikuta/h3-static
 
-[npm-downloads-src]: https://img.shields.io/npm/dm/packageName?style=flat-square
-[npm-downloads-href]: https://npmjs.com/package/packageName
+[npm-downloads-src]: https://img.shields.io/npm/dm/@nozomuikuta/h3-static?style=flat-square
+[npm-downloads-href]: https://npmjs.com/package/@nozomuikuta/h3-static
 
-[github-actions-src]: https://img.shields.io/github/workflow/status/unjs/packageName/ci/main?style=flat-square
-[github-actions-href]: https://github.com/unjs/packageName/actions?query=workflow%3Aci
+[github-actions-src]: https://img.shields.io/github/workflow/status/nozomuikuta/h3-static/ci/main?style=flat-square
+[github-actions-href]: https://github.com/nozomuikuta/h3-static/actions?query=workflow%3Aci
 
-[codecov-src]: https://img.shields.io/codecov/c/gh/unjs/packageName/main?style=flat-square
-[codecov-href]: https://codecov.io/gh/unjs/packageName
+[codecov-src]: https://img.shields.io/codecov/c/gh/nozomuikuta/h3-static/main?style=flat-square
+[codecov-href]: https://codecov.io/gh/nozomuikuta/h3-static
