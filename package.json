@@ -1,7 +1,7 @@
 {
   "name": "@nozomuikuta/h3-static",
   "version": "0.0.0",
-  "description": "",
+  "description": "h3-native event handler to serve static files",
   "repository": "@nozomuikuta/h3-static",
   "license": "MIT",
   "sideEffects": false,
